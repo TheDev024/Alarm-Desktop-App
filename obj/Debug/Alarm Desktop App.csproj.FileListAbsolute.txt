@@ -1,0 +1,12 @@
+F:\Projects\desktop\Alarm Desktop App\bin\Debug\Alarm Desktop App.exe.config
+F:\Projects\desktop\Alarm Desktop App\bin\Debug\Alarm Desktop App.exe
+F:\Projects\desktop\Alarm Desktop App\bin\Debug\Alarm Desktop App.pdb
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm Desktop App.csproj.AssemblyReference.cache
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm Desktop App.csproj.SuggestedBindingRedirects.cache
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm_Desktop_App.MainForm.resources
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm_Desktop_App.Properties.Resources.resources
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm Desktop App.csproj.GenerateResource.cache
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm Desktop App.csproj.CoreCompileInputs.cache
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm Desktop App.exe
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm Desktop App.pdb
+F:\Projects\desktop\Alarm Desktop App\obj\Debug\Alarm_Desktop_App.PopupForm.resources
